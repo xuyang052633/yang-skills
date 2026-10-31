@@ -15,6 +15,7 @@ skills/<id>/SKILL.md
 
 - [China App ICP and App Store mainland](skills/china-app-icp-and-app-store-mainland/SKILL.md) — mainland App ICP filing (APP 备案), website ICP alongside an app domain, and China App Store availability once the ICP number is issued.
 - [Multi-agent board ops](skills/multi-agent-board-ops/SKILL.md) — single-timeline multi-agent ops board: `for=`/`via=`, HTTPS wake vs Work-chat events vs polling/daily routine for seats without a public webhook (Muse/WorkBuddy-class), filter rules, PWA self-use shells.
+- [Agent visual identity](skills/agent-visual-identity/SKILL.md) — reusable AI-agent key art, non-human redesigns, cinematic entrances, reference-locked 5v5 basketball videos, and deterministic FFmpeg AI disclosure post-processing.
 
 ## Add a skill later
 
